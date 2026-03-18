@@ -4,7 +4,7 @@ The blogs infomation on the NVBPlay store.
 
 ## Demo
 
-[Demo](https://nvbplay-prismic-frontend.vercel.app/)
+[Demo](https://nvbplay-storefront.vercel.app/)
 
 ## Deployment
 
@@ -84,32 +84,31 @@ NEXT_PUBLIC_API_URL=https://nestjs-ecommerce-hub-develop.up.railway.app
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
 // Manifest
 // import type { MetadataRoute } from "next";
 
 // export default function manifest(): MetadataRoute.Manifest {
-//   return {
-//     name: "NVBPlay - Nền tảng thương mại điện tử cao cấp",
-//     short_name: "NVBPlay",
-//     description:
-//       "Nền tảng thương mại điện tử giá cả phải chăng | NVBPlay - Nền tảng thương mại điện tử trực tuyến đáng tin cậy của bạn",
-//     start_url: `/`,
-//     display: "standalone",
-//     orientation: "portrait",
-//     background_color: "#fff",
-//     theme_color: "#fff",
-//     icons: [
-//       {
-//         src: `/nvb-play.svg`,
-//         sizes: "192x192",
-//         type: "image/svg",
-//       },
-//       {
-//         src: `/nvb-play.svg`,
-//         sizes: "512x512",
-//         type: "image/svg",
-//       },
-//     ],
-//   };
+// return {
+// name: "NVBPlay - Nền tảng thương mại điện tử cao cấp",
+// short_name: "NVBPlay",
+// description:
+// "Nền tảng thương mại điện tử giá cả phải chăng | NVBPlay - Nền tảng thương mại điện tử trực tuyến đáng tin cậy của bạn",
+// start_url: `/`,
+// display: "standalone",
+// orientation: "portrait",
+// background_color: "#fff",
+// theme_color: "#fff",
+// icons: [
+// {
+// src: `/nvb-play.svg`,
+// sizes: "192x192",
+// type: "image/svg",
+// },
+// {
+// src: `/nvb-play.svg`,
+// sizes: "512x512",
+// type: "image/svg",
+// },
+// ],
+// };
 // }
