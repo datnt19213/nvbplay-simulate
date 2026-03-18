@@ -1,0 +1,26 @@
+{
+  "id": "categories",
+  "type": "SharedSlice",
+  "name": "Categories",
+  "description": "Categories",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Categories",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": "Title of the category slice"
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

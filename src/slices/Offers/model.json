@@ -1,0 +1,18 @@
+{
+  "id": "offers",
+  "type": "SharedSlice",
+  "name": "Offers",
+  "description": "Offers",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Special offer",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

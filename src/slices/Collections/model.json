@@ -1,0 +1,18 @@
+{
+  "id": "collections",
+  "type": "SharedSlice",
+  "name": "Collections",
+  "description": "Collections",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Product collection",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

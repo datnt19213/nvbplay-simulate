@@ -1,0 +1,34 @@
+{
+  "id": "example",
+  "type": "SharedSlice",
+  "name": "Example",
+  "description": "Example",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "carousel": {
+          "type": "Group",
+          "config": {
+            "label": "Carousel",
+            "repeat": true,
+            "fields": {}
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

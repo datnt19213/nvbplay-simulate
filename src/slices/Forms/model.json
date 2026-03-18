@@ -1,0 +1,41 @@
+{
+  "id": "forms",
+  "type": "SharedSlice",
+  "name": "Forms",
+  "description": "Forms",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Equipment Set",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": "Title of the form "
+          }
+        },
+        "short_description": {
+          "type": "Text",
+          "config": {
+            "label": "Short description",
+            "placeholder": "Short description of the form section"
+          }
+        },
+        "background_image": {
+          "type": "Image",
+          "config": {
+            "label": "Background Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

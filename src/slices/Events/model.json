@@ -1,0 +1,18 @@
+{
+  "id": "events",
+  "type": "SharedSlice",
+  "name": "Events",
+  "description": "Events",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Upcoming event",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

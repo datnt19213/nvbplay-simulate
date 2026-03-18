@@ -1,0 +1,28 @@
+{
+  "id": "products",
+  "type": "SharedSlice",
+  "name": "Products",
+  "description": "Products",
+  "variations": [
+    {
+      "id": "default",
+      "name": "New products",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    },
+    {
+      "id": "bestSellerProducts",
+      "name": "Best seller products",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

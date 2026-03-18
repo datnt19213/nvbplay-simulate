@@ -1,0 +1,187 @@
+{
+  "page": "index",
+  "sections": [
+    {
+      "name": "hero",
+      "content": {
+        "carousel": [
+          {
+            "image": "https://picsum.photos/200/300",
+            "link": "https://picsum.photos/200/300"
+          },
+          {
+            "image": "https://picsum.photos/200/300",
+            "link": "https://picsum.photos/200/300"
+          }
+        ],
+        "imageTop": {
+          "image": "https://picsum.photos/200/300",
+          "link": "https://picsum.photos/200/300"
+        },
+        "imageBottom": {
+          "image": "https://picsum.photos/200/300",
+          "link": "https://picsum.photos/200/300"
+        }
+      }
+    },
+    {
+      "name": "search",
+      "content": {
+        "title": "Bạn tìm gì hôm nay?",
+        "placeholder": "Vợt cầu lông Li-Ning giá ưu đãi"
+      }
+    },
+    {
+      "name": "category",
+      "content": {
+        "title": "Danh mục"
+      }
+    },
+    {
+      "name": "deal",
+      "content": {
+        "title": "Deal cực sốc",
+        "background": "https://picsum.photos/200/300"
+      }
+    },
+    {
+      "name": "promotion",
+      "content": {
+        "title": "Ưu đãi dành cho bạn",
+        "description": "Chọn ưu đãi dành cho bạn",
+        "background": "https://picsum.photos/200/300"
+      }
+    },
+    {
+      "name": "post",
+      "content": {
+        "posts": [
+          {
+            "image": "https://picsum.photos/200/300",
+            "link": "https://picsum.photos/200/300"
+          },
+          {
+            "image": "https://picsum.photos/200/300",
+            "link": "https://picsum.photos/200/300"
+          }
+        ]
+      }
+    },
+    {
+      "name": "recomend",
+      "content": {
+        "imageLeft": "https://picsum.photos/200/300",
+        "imageRights": {
+          "imageTop": "https://picsum.photos/200/300",
+          "imageBottom": "https://picsum.photos/200/300"
+        }
+      }
+    },
+    {
+      "name": "live",
+      "content": {
+        "title": "Phiên live nỗi bật"
+      }
+    },
+    {
+      "name": "subcription",
+      "content": {
+        "subtitle": "Khám phá đặc quyền",
+        "title": "Khi là hội viên NVBPlay",
+        "description": "Thoải mái mua sắm và được hưởng nhiều ưu đãi hơn",
+        "button": "Đăng ký ngay",
+        "link": "https://picsum.photos/200/300",
+        "background": "https://picsum.photos/200/300",
+        "logo": "https://picsum.photos/200/300",
+        "feature": [
+          {
+            "title": "Đặc quyền VIP",
+            "link": "https://picsum.photos/200/300"
+          },
+          {
+            "title": "Quà tặng độc quyền",
+            "link": "https://picsum.photos/200/300"
+          },
+          {
+            "title": "Chính sách hoàn tiền",
+            "link": "https://picsum.photos/200/300"
+          }
+        ]
+      }
+    },
+    {
+      "name": "banner",
+      "content": {
+        "image": "https://picsum.photos/200/300"
+      }
+    },
+    {
+      "name": "event-live",
+      "content": {
+        "title": "Sự kiện sắp tới"
+      }
+    },
+    {
+      "name": "building-form",
+      "content": {
+        "title": "Tùy chọn trạng bị cho riêng bạn",
+        "description": "Xây dựng trang bị cho riêng bạn với tính năng tùy chỉnh độc quyền. Chọn trang phục và phụ kiện để tạo bộ đồ thể thao hoàn hảo.",
+        "background": "https://picsum.photos/200/300"
+      }
+    },
+    {
+      "name": "event-sale",
+      "content": {
+        "title": "Sự kiện sắp tới"
+      }
+    },
+    {
+      "name": "collection",
+      "content": {
+        "title": "Bộ sưu tập"
+      }
+    },
+    {
+      "name": "challenge",
+      "content": {
+        "carousel": [
+          {
+            "image": "https://picsum.photos/200/300",
+            "title": "BANNER TITLE EMBRACING CHALLENGES",
+            "text": "Khám phá ngay",
+            "link": "https://picsum.photos/200/300"
+          },
+          {
+            "image": "https://picsum.photos/200/300",
+            "title": "BANNER TITLE EMBRACING CHALLENGES",
+            "text": "Khám phá ngay",
+            "link": "https://picsum.photos/200/300"
+          }
+        ],
+        "products": {
+          "title": "Chinh phục vô địch"
+        }
+      }
+    },
+    {
+      "name": "sport-news",
+      "content": {
+        "title": "Tin thể thao",
+        "news": {
+          "imageLeft": "https://picsum.photos/200/300",
+          "imageRights": {
+            "imageTop": "https://picsum.photos/200/300",
+            "imageBottom": "https://picsum.photos/200/300"
+          }
+        }
+      }
+    },
+    {
+      "name": "suggestion",
+      "content": {
+        "title": "Đề xuất hôm nay",
+        "background": "https://picsum.photos/200/300"
+      }
+    }
+  ]
+}

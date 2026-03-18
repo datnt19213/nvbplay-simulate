@@ -1,0 +1,18 @@
+{
+  "id": "memberships",
+  "type": "SharedSlice",
+  "name": "Memberships",
+  "description": "Memberships",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Membership",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

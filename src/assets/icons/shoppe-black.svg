@@ -1,0 +1,28 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g filter="url(#filter0_b_2913_139394)">
+        <rect width="40" height="40" rx="20" fill="url(#paint0_linear_2913_139394)" />
+        <rect width="40" height="40" rx="20" fill="white" fill-opacity="0.01" />
+        <rect x="0.5" y="0.5" width="39" height="39" rx="19.5" stroke="white" stroke-opacity="0.1" />
+        <g clip-path="url(#clip0_2913_139394)">
+            <path
+                d="M19.9975 12.3201C18.2929 12.3201 16.9909 13.9051 16.8507 15.8401H13.6163C13.2531 15.8401 12.9573 16.154 12.9775 16.5163L13.5294 26.1713C13.5772 27.0152 14.2813 27.6801 15.1263 27.6801H24.8688C25.714 27.6801 26.4178 27.0151 26.4657 26.1713L27.0175 16.5169C27.0384 16.1544 26.742 15.8401 26.3788 15.8401H23.1444C23.0042 13.9051 21.7022 12.3201 19.9975 12.3201ZM19.9975 12.9601C21.2894 12.9601 22.3684 14.2038 22.505 15.8401H17.49C17.6267 14.2038 18.7057 12.9601 19.9975 12.9601ZM20.0232 17.7601C21.252 17.7601 22.1732 18.4196 22.25 18.4676L21.9207 19.0019C21.8407 18.9475 21.6969 18.8608 21.6425 18.8288C21.3161 18.6528 20.7144 18.3907 20.0232 18.3907C18.9832 18.3907 18.2313 18.9665 18.2313 19.7601C18.2313 20.5505 18.9288 20.864 20.0744 21.2832C21.236 21.7056 22.5482 22.1855 22.5482 23.7119C22.5482 24.8607 21.4152 25.7632 19.9688 25.7632C18.692 25.7632 17.6424 24.9793 17.3832 24.7713L17.7382 24.2432C17.7478 24.2528 18.7688 25.1294 19.9688 25.1294C21.044 25.1294 21.9175 24.4927 21.9175 23.7119C21.9175 22.7007 21.1401 22.3423 19.8569 21.8751C18.8009 21.4879 17.6007 21.0497 17.6007 19.7601C17.6007 18.6209 18.6408 17.7601 20.0232 17.7601Z"
+                fill="white" />
+        </g>
+    </g>
+    <defs>
+        <filter id="filter0_b_2913_139394" x="-20" y="-20" width="80" height="80" filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feGaussianBlur in="BackgroundImageFix" stdDeviation="10" />
+            <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2913_139394" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2913_139394" result="shape" />
+        </filter>
+        <linearGradient id="paint0_linear_2913_139394" x1="20" y1="0" x2="20" y2="40" gradientUnits="userSpaceOnUse">
+            <stop stop-color="white" stop-opacity="0" />
+            <stop offset="1" stop-color="white" stop-opacity="0.1" />
+        </linearGradient>
+        <clipPath id="clip0_2913_139394">
+            <rect width="16" height="16" fill="white" transform="translate(12 12)" />
+        </clipPath>
+    </defs>
+</svg>

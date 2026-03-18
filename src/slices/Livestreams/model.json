@@ -1,0 +1,18 @@
+{
+  "id": "livestreams",
+  "type": "SharedSlice",
+  "name": "Livestreams",
+  "description": "Livestreams",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Featured live",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

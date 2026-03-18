@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "id": "prod_01",
+      "title": "Fake Product 1",
+      "subtitle": "High Quality Mock Product",
+      "description": "<p>This is a fake product description for testing purposes.</p>",
+      "handle": "fake-product-1",
+      "is_giftcard": false,
+      "discountable": true,
+      "thumbnail": "https://placehold.co/600x400?text=Product+1",
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z",
+      "options": [
+        {
+          "id": "opt_01",
+          "title": "Color",
+          "values": [
+            { "id": "val_01", "value": "Black" },
+            { "id": "val_02", "value": "White" }
+          ]
+        }
+      ],
+      "images": [
+        { "id": "img_01", "url": "https://placehold.co/600x400?text=Product+1+Image+1" }
+      ],
+      "variants": [
+        {
+          "id": "variant_01",
+          "title": "Black / Large",
+          "sku": "FAKE-01-B-L",
+          "calculated_price": {
+            "calculated_amount": 100000,
+            "currency_code": "VND",
+            "original_amount": 120000
+          },
+          "inventory_quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "prod_02",
+      "title": "Fake Product 2",
+      "subtitle": "Another Premium Mock",
+      "description": "<p>Another premium mock product description.</p>",
+      "handle": "fake-product-2",
+      "thumbnail": "https://placehold.co/600x400?text=Product+2",
+      "created_at": "2024-01-02T00:00:00Z",
+      "updated_at": "2024-01-02T00:00:00Z",
+      "options": [],
+      "images": [],
+      "variants": [
+        {
+          "id": "variant_02",
+          "title": "Default",
+          "calculated_price": {
+            "calculated_amount": 250000,
+            "currency_code": "VND"
+          },
+          "inventory_quantity": 5
+        }
+      ]
+    }
+  ],
+  "categories": [
+    { "id": "cat_01", "name": "Category 1", "handle": "category-1" }
+  ],
+  "collections": [
+    { "id": "col_01", "title": "Summer Collection", "handle": "summer-collection" }
+  ],
+  "brands": [
+    { "id": "brand_01", "name": "Brand X", "handle": "brand-x" }
+  ],
+  "blogs": [
+    {
+      "id": "blog_01",
+      "title": "Welcome to our Fake Blog",
+      "slug": "welcome-fake-blog",
+      "content": "<p>Content of the first fake blog post.</p>",
+      "created_at": "2024-03-18T00:00:00Z",
+      "thumbnail": "https://placehold.co/800x400?text=Blog+1"
+    },
+    {
+      "id": "blog_02",
+      "title": "Next.js Mocking Guide",
+      "slug": "nextjs-mocking",
+      "content": "<p>How to mock data in Next.js projects.</p>",
+      "created_at": "2024-03-19T00:00:00Z",
+      "thumbnail": "https://placehold.co/800x400?text=Blog+2"
+    }
+  ],
+  "settings": [
+    {
+      "system": {
+        "enviroment": {
+          "api-url": { "value": "http://localhost:3000/api/mock" },
+          "blog-api-url": { "value": "http://localhost:3000/api/mock" },
+          "user-id": { "value": "58" },
+          "channel-id": { "value": "73" },
+          "content-model-id": { "value": "100" }
+        }
+      }
+    }
+  ]
+}

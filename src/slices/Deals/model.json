@@ -1,0 +1,34 @@
+{
+  "id": "deals",
+  "type": "SharedSlice",
+  "name": "Deals",
+  "description": "Deals",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Shocking deals",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": "Title on top of the deal section"
+          }
+        },
+        "background_image": {
+          "type": "Image",
+          "config": {
+            "label": "Background Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "suggestions",
+  "type": "SharedSlice",
+  "name": "Suggestions",
+  "description": "Suggestions",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Banner and product suggestion",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

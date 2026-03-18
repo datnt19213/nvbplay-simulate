@@ -1,0 +1,18 @@
+{
+  "id": "banners",
+  "type": "SharedSlice",
+  "name": "Banners",
+  "description": "Banners",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Banner 1",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}
